@@ -26,6 +26,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: webet esports
+    url: 'http://webet.de'
+    type: external
 favicon: null
 title: Esport
 description: Wetten
